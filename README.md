@@ -1,36 +1,15 @@
-Product Information Web Scraper
+# Product Information Web Scraper
 
-Description
+A Python program that extracts product information such as names, prices, and ratings from a website and stores the data in a CSV file.
 
-This project is a Python-based web scraper that extracts product information such as product names, prices, and ratings from a website and stores the data in a CSV file.
-
-Features
-
+## Features
 - Extracts product names
 - Extracts product prices
 - Extracts product ratings
 - Saves data to a CSV file
 
-Technologies Used
+## Language
+Python
 
-- Python
-- Requests
-- BeautifulSoup
-- Pandas
-
-How to Run
-
-1. Install the required libraries:
-   
-   - requests
-   - beautifulsoup4
-   - pandas
-
-2. Run the Python file:
-   python web_scraper.py
-
-3. The extracted data will be saved as a CSV file.
-
-Author
-
-Sravanthi Reddy
+## Author
+Chaparapu Sravanthi
